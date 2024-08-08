@@ -2,7 +2,11 @@
 
 #### Sou um jovem negro de 24 anos, formado em Análise e Desenvolvimento de Sistemas com foco em desenvolvimento Front-end (React, Javascript, Next.js e Node.js), porém também sou conhecedor de liguagens Back-end POO como: Java e Kotlin (para desenvolvimento Android). Além de contrução de web services com Spring Framework e banco de dados relacional(MySQL).
 
-#### Esse é um perfil novo que criei após concluir a faculdade, caso queira conferir meu perfil enquanto ainda estava cursando meu ensino superior basta clicar na logo do Github ao lado do Instagram e procurar a organização Changer da qual faço parte e foi meu projeto final (TCC) em grupo.
+#### Esse é um perfil novo que criei após concluir a faculdade, caso queira conferir meu perfil enquanto ainda estava cursando meu ensino superior basta clicar na logo do Github ao lado do Instagram e caso queira ver os projetos finais (TCC) em grupo é só clicar no link abaixo.
+
+- [Projeto de site institucional feito em React](https://github.com/ChangerInc/Site-Institucional)
+- [Projeto de aplicativo nativo para Android](https://github.com/ChangerInc/basquiat-app)
+- [Projeto de web service RESTful API feita em Java com Spring](https://github.com/ChangerInc/pitagoras-api)
 
 [![Perfil Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mjsilvadev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateusj_dev/)
